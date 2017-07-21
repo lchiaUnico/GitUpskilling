@@ -1,0 +1,1 @@
+Create a basic HTML page with the syntax including <html><head><title><body><h1><p><ul>tags.
